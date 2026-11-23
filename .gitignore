@@ -1,0 +1,6 @@
+data/*.csv
+.DS_Store
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+submission.zip
